@@ -1,22 +1,32 @@
-# AI Prompt Library
+# 🤖 AI Prompt Library
 
-A collection of useful AI prompts for:
+A curated collection of AI prompts for digital marketing, branding, content creation, and productivity.
 
-- Digital Marketing
-- Content Creation
-- LinkedIn Branding
-- Logo Design
-- Business Ideas
-- Productivity
+## 📌 Categories
 
-## About
+- 🎯 Digital Marketing
+- ✍️ Content Creation
+- 💼 LinkedIn Branding
+- 🎨 Logo Design
+- 💡 Business Ideas
+- ⚡ Productivity
 
-This project is a personal collection of high-quality AI prompts created to explore the use of Artificial Intelligence in marketing, branding, and content creation.
+## 🚀 About This Project
 
-## Author
+This project is a personal collection of AI prompts created to explore how Artificial Intelligence can improve creativity, marketing, and digital workflows.
+
+The goal is to learn, experiment, and share useful AI resources.
+
+## 📂 Files Included
+
+- logo-prompts.md → AI prompts for logo and brand design
+- marketing-prompts.md → Digital marketing prompts
+- linkedin-prompts.md → Personal branding and LinkedIn prompts
+
+## 👨‍💻 Author
 
 Muhammad Rehan Ahmed
 
-## Goal
+## 🎯 Goal
 
-Learning, building, and sharing AI-powered resources.
+Learning • Building • Growing with AI and technology.
